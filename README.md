@@ -49,6 +49,10 @@ Expected Outcomes:
 
 
 # Useful links
-https://allertameteo.regione.emilia-romagna.it/livello-idrometrico
+ https://allertameteo.regione.emilia-romagna.it/livello-idrometrico
+ https://github.com/amgrg/Caravan.git
+ https://confluence.ecmwf.int/display/CEMS/EFAS+User+Guide
+ 
+
 
 
