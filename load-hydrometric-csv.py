@@ -61,4 +61,19 @@ def analyze_data(df):
         'end_time': df['start_time'].max(),
         'duration': df['start_time'].max() - df['start_time'].min(),
         'min_level': df['water_level'].min(),
-        'max_level': df['water_level'].max()}
+        'max_level': df['water_level'].max()
+    }
+    return analysis
+
+def main():
+    file_path = "C:\\Users\\amixg\\Downloads\\import.txt"
+    location = "Sample Location"
+    
+    # Load the data
+    df = load_hydrometric_data(file_path)
+    
+    # Plot the water levels
+    plot_water_levels(df, location)
+
+if __name__ == "__main__":
+    main()
