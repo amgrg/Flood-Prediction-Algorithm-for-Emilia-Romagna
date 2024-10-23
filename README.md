@@ -1,5 +1,8 @@
 Project Brief: Flood Prediction Algorithm for Emilia-Romagna
 
+https://code.earthengine.google.com/?asset=projects/erfloodprevention/assets/romagna_italy
+
+
 Objective:
 Develop a machine learning algorithm to predict flood events in the Emilia-Romagna region of Italy, enhancing early warning systems and improving disaster preparedness.
 
