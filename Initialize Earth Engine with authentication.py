@@ -1,0 +1,1 @@
+var table = ee.FeatureCollection("projects/erfloodprevention/assets/romagna_italy");
